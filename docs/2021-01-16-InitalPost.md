@@ -10,4 +10,4 @@ summary: In this post I will go over the concept of the blog and why I'm creatin
 
 # Hello world
 
-As part of my current job at Microsoft I've been spending a good deal of time working on Windows hello for Business Hybrid Key Trust. As part of this I've realized that the process has various steps which 
+As part of my current job at Microsoft I've been spending a good deal of time working on Windows hello for Business Hybrid Key Trust. As part of this I've realized that the process has various steps which
